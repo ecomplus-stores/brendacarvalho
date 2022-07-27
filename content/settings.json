@@ -1,26 +1,26 @@
 {
-  "store_id": 51295,
-  "name": "brendacarvalho",
   "domain": "brendacarvalho.netlify.app",
-  "short_name": "brendacarvalho",
-  "description": "brendacarvalho",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#575756",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "ecom-beauty"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/brendacarvalho",
+  "logo": "/img/uploads/logotipo.png",
+  "name": "brendacarvalho",
+  "short_name": "brendacarvalho",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR",
-  "repository": "ecomplus-stores/brendacarvalho",
+  "mini_logo": "",
+  "font_family": "_",
+  "favicon": "/img/uploads/favicon.png",
   "icons_font": "_",
-  "font_family": "_"
+  "country_code": "BR",
+  "secondary_color": "#b18e72",
+  "icon": "/img/uploads/logotipo.png",
+  "store_id": 51295,
+  "description": "Especialista em MEGA HAIR zero MARCAÇÃO\n⚡ Método Nanocapsulas BRENDA CARVALHO\n💐 Transformando SONHOS em realidad",
+  "large_icon": "/img/uploads/logotipo.png"
 }
