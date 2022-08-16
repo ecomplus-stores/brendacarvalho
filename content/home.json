@@ -3,18 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "2022-08-16T02:54:09.179Z",
-          "end": "2022-08-16T02:54:09.207Z",
-          "img": "/img/uploads/linha-exclusiva-para-seu-alongamento-2-.png"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null,
@@ -32,6 +20,18 @@
     {
       "type": "custom-html",
       "html": "<div data-mc-src=\"db1892d8-1530-47ef-b0cd-db046fcf04c5#instagram\"></div>\n        \n<script \n  src=\"https://cdn2.woxo.tech/a.js#62fb01bbfc71d35a7993e5f8\" \n  async data-usrc>\n</script>"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "2022-08-16T02:54:09.179Z",
+          "end": "2022-08-16T02:54:09.207Z",
+          "img": "/img/uploads/linha-exclusiva-para-seu-alongamento-2-.png"
+        }
+      ]
     }
   ]
 }
