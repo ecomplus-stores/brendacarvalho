@@ -3,8 +3,8 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "info-bar",
-      "enabled": true
+      "type": "responsive-banner",
+      "img": "/img/uploads/linha-exclusiva-para-seu-alongamento-1-.png"
     },
     {
       "type": "banner-slider",
@@ -17,6 +17,10 @@
           "img": "/img/uploads/linha-exclusiva-para-seu-alongamento-2-.png"
         }
       ]
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     },
     {
       "type": "collection-shelf",
