@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.272d59f616c07aeb5c8778fcf85bed4a.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.40eaea2bc46c97963874c395b9d8ba65.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.b911cae5b808ca996abc0777fbda7b76.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.52f9a45dc21f5516841de8e25f51166e.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.5e4e7de542050361464c35f73aba3da0.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "brendacarvalho",
+  "short_name": "Brenda Carvalho Shop",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Especialista em MEGA HAIR zero MARCAÇÃO\n⚡ Método Nanocapsulas BRENDA CARVALHO\n💐 Transformando SONHOS em realidade\n\nProdutos Livre de Petrolatos, Parabenos, Corantes e Sa! Exclusividade Brenda Carvalho Concept Hair.\n\nCabelos Brasileiros com qualidade Premium.",
+  "background_color": "#ffffff",
+  "theme_color": "#575756"
+}
